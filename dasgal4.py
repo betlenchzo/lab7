@@ -16,4 +16,4 @@ elif shape=="triangle":
     s=(b*x)/2
 else:
     print("buruu dvrs oruulsan baina.")
-print(s)
+print(f"{s:.3f}")
